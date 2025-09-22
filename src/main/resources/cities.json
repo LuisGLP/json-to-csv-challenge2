@@ -42,5 +42,16 @@
     "region": "Europe",
     "subregion": "Western Europe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico",
+    "population": 11589623,
+    "area": 30528,
+    "currency": "Peso",
+    "languages": "Spanish",
+    "region": "Latam",
+    "subregion": "America Central",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
   }
 ]
